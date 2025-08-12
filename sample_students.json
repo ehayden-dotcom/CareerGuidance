@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Alice",
+    "yearLevel": 10,
+    "interests": ["STEM", "IT"],
+    "strengths": ["Problem-Solving", "Technical Skills"],
+    "academicPerformance": "High"
+  },
+  {
+    "name": "Ben",
+    "yearLevel": 11,
+    "interests": ["Creative Arts", "Business"],
+    "strengths": ["Creativity", "Communication"],
+    "academicPerformance": "Medium"
+  },
+  {
+    "name": "Chloe",
+    "yearLevel": 9,
+    "interests": ["Health", "Education"],
+    "strengths": ["Empathy", "Leadership"],
+    "academicPerformance": "High"
+  },
+  {
+    "name": "Daniel",
+    "yearLevel": 12,
+    "interests": ["Trades", "STEM"],
+    "strengths": ["Technical Skills", "Problem-Solving"],
+    "academicPerformance": "Low"
+  },
+  {
+    "name": "Ella",
+    "yearLevel": 10,
+    "interests": ["Health", "Business"],
+    "strengths": ["Empathy", "Leadership", "Communication"],
+    "academicPerformance": "Medium"
+  }
+]

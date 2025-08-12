@@ -1,0 +1,202 @@
+[
+  {
+    "careerId": "CR001",
+    "name": "Paramedic",
+    "cluster": "Health",
+    "requiredSkills": ["Empathy", "Communication", "Problem-Solving"],
+    "suggestedSubjects": ["Biology", "Chemistry", "Physical Education"],
+    "vetOptions": ["Certificate IV in Health Care"],
+    "pathways": ["Bachelor of Paramedicine"],
+    "jobOutlook": "Strong demand"
+  },
+  {
+    "careerId": "CR002",
+    "name": "Software Developer",
+    "cluster": "IT",
+    "requiredSkills": ["Problem-Solving", "Technical Skills", "Creativity"],
+    "suggestedSubjects": ["Mathematics", "Computer Science", "Design"],
+    "vetOptions": ["Diploma of Information Technology"],
+    "pathways": ["Bachelor of Computer Science", "Bachelor of Software Engineering"],
+    "jobOutlook": "Strong demand"
+  },
+  {
+    "careerId": "CR003",
+    "name": "Electrician",
+    "cluster": "Trades",
+    "requiredSkills": ["Technical Skills", "Problem-Solving", "Communication"],
+    "suggestedSubjects": ["Physics", "Mathematics", "Workshop"],
+    "vetOptions": ["Certificate III in Electrotechnology"],
+    "pathways": ["Electrical Apprenticeship"],
+    "jobOutlook": "Stable"
+  },
+  {
+    "careerId": "CR004",
+    "name": "Graphic Designer",
+    "cluster": "Creative Arts",
+    "requiredSkills": ["Creativity", "Communication", "Technical Skills"],
+    "suggestedSubjects": ["Art", "Design", "Digital Media"],
+    "vetOptions": ["Certificate IV in Design"],
+    "pathways": ["Bachelor of Graphic Design"],
+    "jobOutlook": "Growing"
+  },
+  {
+    "careerId": "CR005",
+    "name": "Teacher (Primary)",
+    "cluster": "Education",
+    "requiredSkills": ["Communication", "Empathy", "Leadership"],
+    "suggestedSubjects": ["English", "Mathematics", "Humanities"],
+    "vetOptions": ["Certificate IV in Education Support"],
+    "pathways": ["Bachelor of Education (Primary)"],
+    "jobOutlook": "Stable"
+  },
+  {
+    "careerId": "CR006",
+    "name": "Nurse",
+    "cluster": "Health",
+    "requiredSkills": ["Empathy", "Communication", "Technical Skills"],
+    "suggestedSubjects": ["Biology", "Chemistry", "Mathematics"],
+    "vetOptions": ["Diploma of Nursing"],
+    "pathways": ["Bachelor of Nursing"],
+    "jobOutlook": "Strong demand"
+  },
+  {
+    "careerId": "CR007",
+    "name": "Data Scientist",
+    "cluster": "STEM",
+    "requiredSkills": ["Problem-Solving", "Technical Skills", "Creativity"],
+    "suggestedSubjects": ["Mathematics", "Statistics", "Computer Science"],
+    "vetOptions": ["Graduate Certificate in Data Science"],
+    "pathways": ["Bachelor of Data Science", "Master of Analytics"],
+    "jobOutlook": "Growing"
+  },
+  {
+    "careerId": "CR008",
+    "name": "Chef",
+    "cluster": "Trades",
+    "requiredSkills": ["Creativity", "Problem-Solving", "Communication"],
+    "suggestedSubjects": ["Food Technology", "Business Studies", "Mathematics"],
+    "vetOptions": ["Certificate III in Commercial Cookery"],
+    "pathways": ["Apprenticeship in Commercial Cookery"],
+    "jobOutlook": "Stable"
+  },
+  {
+    "careerId": "CR009",
+    "name": "Mechanical Engineer",
+    "cluster": "STEM",
+    "requiredSkills": ["Problem-Solving", "Technical Skills", "Creativity"],
+    "suggestedSubjects": ["Physics", "Mathematics", "Engineering Studies"],
+    "vetOptions": ["Diploma of Engineering"],
+    "pathways": ["Bachelor of Mechanical Engineering"],
+    "jobOutlook": "Growing"
+  },
+  {
+    "careerId": "CR010",
+    "name": "Accountant",
+    "cluster": "Business",
+    "requiredSkills": ["Problem-Solving", "Communication", "Leadership"],
+    "suggestedSubjects": ["Accounting", "Mathematics", "Economics"],
+    "vetOptions": ["Certificate IV in Accounting and Bookkeeping"],
+    "pathways": ["Bachelor of Commerce", "Bachelor of Accounting"],
+    "jobOutlook": "Stable"
+  },
+  {
+    "careerId": "CR011",
+    "name": "Psychologist",
+    "cluster": "Health",
+    "requiredSkills": ["Empathy", "Problem-Solving", "Communication"],
+    "suggestedSubjects": ["Psychology", "Biology", "Mathematics"],
+    "vetOptions": ["Graduate Diploma in Psychology"],
+    "pathways": ["Bachelor of Psychological Science", "Master of Clinical Psychology"],
+    "jobOutlook": "Growing"
+  },
+  {
+    "careerId": "CR012",
+    "name": "Civil Engineer",
+    "cluster": "STEM",
+    "requiredSkills": ["Problem-Solving", "Technical Skills", "Leadership"],
+    "suggestedSubjects": ["Physics", "Mathematics", "Geography"],
+    "vetOptions": ["Diploma of Civil Construction Management"],
+    "pathways": ["Bachelor of Civil Engineering"],
+    "jobOutlook": "Strong demand"
+  },
+  {
+    "careerId": "CR013",
+    "name": "Business Analyst",
+    "cluster": "Business",
+    "requiredSkills": ["Problem-Solving", "Communication", "Technical Skills"],
+    "suggestedSubjects": ["Business Studies", "Mathematics", "Information Systems"],
+    "vetOptions": ["Diploma of Business"],
+    "pathways": ["Bachelor of Business Analysis", "Bachelor of Information Systems"],
+    "jobOutlook": "Growing"
+  },
+  {
+    "careerId": "CR014",
+    "name": "Web Designer",
+    "cluster": "Creative Arts",
+    "requiredSkills": ["Creativity", "Communication", "Technical Skills"],
+    "suggestedSubjects": ["Design", "Information Technology", "Art"],
+    "vetOptions": ["Certificate IV in Web Based Technologies"],
+    "pathways": ["Bachelor of Design (Digital Media)", "Bachelor of Information Technology"],
+    "jobOutlook": "Growing"
+  },
+  {
+    "careerId": "CR015",
+    "name": "Carpenter",
+    "cluster": "Trades",
+    "requiredSkills": ["Technical Skills", "Problem-Solving", "Creativity"],
+    "suggestedSubjects": ["Workshop", "Mathematics", "Design and Technology"],
+    "vetOptions": ["Certificate III in Carpentry"],
+    "pathways": ["Carpentry Apprenticeship"],
+    "jobOutlook": "Stable"
+  },
+  {
+    "careerId": "CR016",
+    "name": "Speech Pathologist",
+    "cluster": "Health",
+    "requiredSkills": ["Empathy", "Communication", "Problem-Solving"],
+    "suggestedSubjects": ["Biology", "English", "Psychology"],
+    "vetOptions": ["Graduate Certificate in Speech Pathology"],
+    "pathways": ["Bachelor of Speech Pathology", "Master of Speech Pathology"],
+    "jobOutlook": "Growing"
+  },
+  {
+    "careerId": "CR017",
+    "name": "Marketing Manager",
+    "cluster": "Business",
+    "requiredSkills": ["Creativity", "Communication", "Leadership"],
+    "suggestedSubjects": ["Business Studies", "English", "Media Studies"],
+    "vetOptions": ["Diploma of Marketing and Communication"],
+    "pathways": ["Bachelor of Marketing", "Master of Business Administration"],
+    "jobOutlook": "Growing"
+  },
+  {
+    "careerId": "CR018",
+    "name": "Secondary School Teacher",
+    "cluster": "Education",
+    "requiredSkills": ["Communication", "Empathy", "Leadership"],
+    "suggestedSubjects": ["English", "Mathematics", "Science"],
+    "vetOptions": ["Certificate IV in Training and Assessment"],
+    "pathways": ["Bachelor of Education (Secondary)"],
+    "jobOutlook": "Stable"
+  },
+  {
+    "careerId": "CR019",
+    "name": "Physiotherapist",
+    "cluster": "Health",
+    "requiredSkills": ["Empathy", "Communication", "Problem-Solving"],
+    "suggestedSubjects": ["Biology", "Chemistry", "Physical Education"],
+    "vetOptions": ["Bachelor of Physiotherapy"],
+    "pathways": ["Bachelor of Physiotherapy", "Master of Sports Physiotherapy"],
+    "jobOutlook": "Growing"
+  },
+  {
+    "careerId": "CR020",
+    "name": "Environmental Scientist",
+    "cluster": "STEM",
+    "requiredSkills": ["Problem-Solving", "Technical Skills", "Empathy"],
+    "suggestedSubjects": ["Biology", "Chemistry", "Geography"],
+    "vetOptions": ["Diploma of Environmental Science"],
+    "pathways": ["Bachelor of Environmental Science", "Master of Environmental Management"],
+    "jobOutlook": "Growing"
+  }
+]
